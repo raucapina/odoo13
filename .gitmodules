@@ -1,0 +1,9 @@
+[submodule "integralis_addons"]
+	path = integralis_addons
+	url = https://github.com/zabyca/integralis_addons.git
+[submodule "integralis_odoo"]
+	path = integralis_odoo
+	url = https://github.com/zabyca/integralis_odoo.git
+[submodule "odoo_enterprise"]
+	path = odoo_enterprise
+	url = https://github.com/zabyca/odoo_enterprise.git

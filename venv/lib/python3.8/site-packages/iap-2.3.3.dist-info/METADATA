@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: iap
+Version: 2.3.3
+Summary: Python utilities for working with Apple In-App Purchases (IAP)
+Home-page: https://github.com/educreations/python-iap
+Author: Educreations Engineering
+Author-email: engineering@educreations.com
+License: MIT
+Keywords: iap appstore django
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: Django (>=1.9)
+Requires-Dist: pytz
+Requires-Dist: asn1crypto
+Requires-Dist: pyopenssl (>=17.0.0)
+Requires-Dist: requests
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pytest-django ; extra == 'test'
+Requires-Dist: responses ; extra == 'test'
+Requires-Dist: flake8 ; extra == 'test'
+
+# python-iap
+
+[![CircleCI](https://circleci.com/gh/educreations/python-iap.svg?style=svg)](https://circleci.com/gh/educreations/python-iap) [![PyPI version](https://badge.fury.io/py/iap.svg)](https://badge.fury.io/py/iap)
+
+Python utilities for working with Apple In-App Purchases (IAP)
+
+## Copyright
+
+Copyright © 2020, Educreations, Inc under the MIT software license. See LICENSE for more information.
+
+

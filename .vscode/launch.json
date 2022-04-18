@@ -1,0 +1,16 @@
+
+{"version": "0.2.0",
+    "configurations": [
+    {
+    "name": "OdooV13 EE",
+    "type": "python",
+    "request": "launch",
+    "python": "/home/ricardoab/code/odoo13/venv/bin/python3.8",
+    "program": "/home/ricardoab/code/odoo13/integralis_odoo/odoo-bin",
+    "console": "integratedTerminal",
+    "gevent": false,
+    "args": [
+    "--config=/home/ricardoab/code/odoo13/odoo13_ee.conf",],
+    },
+    ]
+    }

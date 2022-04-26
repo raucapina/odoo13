@@ -10,7 +10,7 @@
     "console": "integratedTerminal",
     "gevent": false,
     "args": [
-    "--config=/home/ricardoab/code/odoo13/odoo13_ee.conf",],
+    "--config=/home/ricardoab/code/odoo13/odoo13_ee.conf","-u", "survey,website_slides_survey"],
     },
     ]
     }

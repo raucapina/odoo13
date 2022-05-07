@@ -8,9 +8,9 @@
     "python": "/home/ricardoab/code/odoo13/venv/bin/python3.8",
     "program": "/home/ricardoab/code/odoo13/integralis_odoo/odoo-bin",
     "console": "integratedTerminal",
-    "gevent": true,
+    "gevent": false,
     "args": [
-    "--config=/home/ricardoab/code/odoo13/odoo13_ee.conf","-u", "survey,website_slides_survey,integralis_website_multiwarehouse"],
+    "--config=/home/ricardoab/code/odoo13/odoo13_ee.conf","-u", "survey,website_slides_survey,integralis_website_slides"],
     },
     ]
     }
